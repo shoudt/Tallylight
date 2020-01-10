@@ -20,7 +20,7 @@ raspberry can. Later on I saw the possibilities of the nodemcu. Much cheaper (un
 - 1 led
 - 1 resistor 220 ohm
 
-Connect the LED and Resistor to NODEMCU. Upload the Sketch. This sketch makes use of autoconnect. While the nodemcu is not connected to a router is start as an accesspoint. Connect your phone to the accesspoint (esp8266AP) an then you can configure ssid and password of your own router. Besides you can configure the parameters for the tally light which are :
+Connect the LED and Resistor to the NODEMCU. Upload the Sketch. This sketch makes use of autoconnect. While the nodemcu is not connected to a router is start as an accesspoint. Connect your phone to the accesspoint (esp8266AP) an then you can configure ssid and password of your own router. Besides you can configure the parameters for the tally light which are :
 - url of the VMIX host (see documentation of webcontroller VMIX)
 - Name of camera in your vmix preset
 
